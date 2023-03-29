@@ -1,0 +1,21 @@
+#man-img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -24758930;
+}
+
+h2 {
+    color: #E2231A;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.25rem;
+    padding: 2rem 0;
+}
+
+#content {
+    padding: 1.7rem;
+    width: 50%;
+}

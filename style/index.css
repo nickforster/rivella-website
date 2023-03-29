@@ -1,0 +1,69 @@
+body, * {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    padding-right: 5rem;
+    background-color: #E2231A;
+}
+
+header a {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+main {
+    height: 100%;
+}
+
+.red {
+    color: #E2231A;
+}
+
+.refresh {
+    color: #3EBCCF;
+}
+
+.blue {
+    color: #769CDA;
+}
+
+.green-tea {
+    color: #009944;
+}
+
+.swiss-mince {
+    color: #007136;
+}
+
+footer {
+    position: relative;
+}
+
+#link-container {
+    position: absolute;
+    bottom: 2.5rem;
+    left: 2rem;
+}
+
+footer a {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    padding-right: 1rem;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}

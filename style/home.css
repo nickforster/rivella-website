@@ -1,0 +1,25 @@
+main {
+    padding: 2rem;
+}
+
+#news {
+    position: relative;
+}
+
+#news p {
+    width: 80%;
+}
+
+#rivella-bottle {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+video {
+    margin-top: 2rem;
+}
+
+#news, #sortiment, #actions {
+    margin-bottom: 4rem;
+}
