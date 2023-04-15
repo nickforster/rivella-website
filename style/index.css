@@ -36,7 +36,7 @@ main {
 }
 
 .blue {
-    color: #769CDA;
+    color: #0147BA;
 }
 
 .green-tea {
@@ -45,6 +45,10 @@ main {
 
 .swiss-mince {
     color: #007136;
+}
+
+h3 {
+    padding-top: 1rem;
 }
 
 footer {
