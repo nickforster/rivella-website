@@ -23,6 +23,12 @@
     transform: translate(-50%, -50%);
 }
 
+#esc-button {
+    position: absolute;
+    top: .25rem;
+    right: .5rem;
+}
+
 #title {
     padding: 1rem;
 }
